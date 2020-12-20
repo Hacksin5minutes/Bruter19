@@ -7,7 +7,7 @@
 * sudo ./setup.sh
 * sudo python3 bruter19.py
 # ADDED FEATURES IN V2.0
-* The Tool Supports Turkish Language Now
+* The Tool Supports German Language
 * The Tool Is Able To Generate Personalized Wordlist Now
 * The Tool Is A Bit Faster Now
 # FIXED BUGS IN V2.0
